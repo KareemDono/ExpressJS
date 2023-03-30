@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "Store 1",
+    "city": "City 1",
+    "items": [
+      { "id": 1, "name": "Item 1", "regularPrice": 10, "salePrice": 8 },
+      { "id": 2, "name": "Item 2", "regularPrice": 20, "salePrice": 18 }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Store 2",
+    "city": "City 2",
+    "items": [
+      { "id": 3, "name": "Item 3", "regularPrice": 15, "salePrice": 12 },
+      { "id": 4, "name": "Item 4", "regularPrice": 25, "salePrice": 22 }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Store 3",
+    "city": "City 3",
+    "items": [
+      { "id": 5, "name": "Item 5", "regularPrice": 30, "salePrice": 25 },
+      { "id": 6, "name": "Item 6", "regularPrice": 40, "salePrice": 35 }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Store 4",
+    "city": "City 4",
+    "items": [
+      { "id": 7, "name": "Item 7", "regularPrice": 20, "salePrice": 18 },
+      { "id": 8, "name": "Item 8", "regularPrice": 30, "salePrice": 28 },
+      { "id": 3 }
+    ]
+  },
+  { "id": 5, "items": [] },
+  { "id": 6, "name": "Store 6", "city": "City 5", "items": [] }
+]
